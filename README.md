@@ -24,7 +24,7 @@ To get started with the Venom Blockchain, you can visit the [official website](h
 
 ## Usage
 
-### Local Development
+### Local Developments
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
